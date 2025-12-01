@@ -22,10 +22,6 @@ These are the things I want to think about while working:
 - Extra checks for things I usually find challenging  
 I’ll add notes to my checklist where I think I might need extra help or clearer reminders.
 ---
-## 📝 Step 3: Create My Checklist  
-I’m keeping my checklist here in this README so it’s easy to update as I go.  
-I’ve split everything into clear sections based on the Activity B requirements.
----
 # ✔️ My Activity B Checklist
 ## 1. Visual / Interface Design  
 - [✔️] Initial layout ideas created  
