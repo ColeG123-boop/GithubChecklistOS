@@ -28,28 +28,28 @@ I’ve split everything into clear sections based on the Activity B requirements
 ---
 # ✔️ My Activity B Checklist
 ## 1. Visual / Interface Design  
-- [ ] Initial layout ideas created  
-- [ ] Wireframes completed  
-- [ ] User interface features labelled  
-- [ ] Final interface design added  
-- [ ] Screenshots/images included if needed  
+- [✔️] Initial layout ideas created  
+- [✔️] Wireframes completed  
+- [✔️] User interface features labelled  
+- [✔️] Final interface design added  
+- [✔️] Screenshots/images included if needed  
 ## 2. Data Requirements  
-- [ ] All data inputs listed  
-- [ ] All data outputs listed  
-- [ ] Data dictionary created  
+- [✔️] All data inputs listed  
+- [✔️] All data outputs listed  
+- [✔️] Data dictionary created  
 ## 3. Algorithm Designs  
-- [ ] Flowcharts created  
-- [ ] Pseudocode written  
-- [ ] Explanation of how the algorithm works  
+- [✔️] Flowcharts created  
+- [✔️] Pseudocode written  
+- [✔️] Explanation of how the algorithm works  
 ## 4. Test Strategy  
-- [ ] Test plan created  
-- [ ] Different test types explained (e.g. boundary, invalid, normal)  
-- [ ] Expected results written  
-- [ ] Actual results added later  
+- [✔️] Test plan created  
+- [✔️] Different test types explained (e.g. boundary, invalid, normal)  
+- [✔️] Expected results written  
+- [✔️] Actual results added later  
 ## 5. Communication  
-- [ ] Documentation written clearly  
-- [ ] Diagrams labelled properly  
-- [ ] Everything organised and easy to follow  
+- [✔️] Documentation written clearly  
+- [✔️] Diagrams labelled properly  
+- [✔️] Everything organised and easy to follow  
 ---
 ## 📎 Notes for Myself  
 - Add extra checks to any sections I struggle with  
