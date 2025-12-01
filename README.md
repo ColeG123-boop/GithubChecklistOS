@@ -1,4 +1,4 @@
----
+
 ## 🎓 Why This Is Important  
 Activity B needs proper, well-laid-out design documentation. Having a checklist makes it easier to:
 - Stay organised  
