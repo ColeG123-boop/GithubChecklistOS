@@ -47,6 +47,9 @@ I’ll add notes to my checklist where I think I might need extra help or cleare
 - [✔️] Diagrams labelled properly  
 - [✔️] Everything organised and easy to follow  
 ---
+## Content Structure
+-[] Cover Page
+-[] 
 ## 📎 Notes for Myself  
 - Add extra checks to any sections I struggle with  
 - Update this checklist as soon as I finish something  
