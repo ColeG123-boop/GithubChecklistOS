@@ -49,6 +49,8 @@ I’ll add notes to my checklist where I think I might need extra help or cleare
 - Add extra checks to any sections I struggle with  
 - Update this checklist as soon as I finish something  
 - Keep everything professional but easy to read
+  
+---
 
 ## Activity A
 # Activity A – Research & Prep Checklist
