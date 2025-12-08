@@ -135,6 +135,8 @@ Break the problem into smaller chunks.
 - [ ] Diagrams are actually readable  
 - [ ] All points in Activity A have been covered  
 
+https://qualifications.pearson.com/content/dam/pdf/TLevels/digital/2020/specification-and-sample-assessments/t-level-exemplification-os-digital-distinction.pdf
+
 ---
 
 ### End of Checklist
